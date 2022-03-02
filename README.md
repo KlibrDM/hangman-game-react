@@ -3,6 +3,8 @@ Live preview: Coming soon!
 
 This is a remake of https://github.com/KlibrDM/hangman-game using ReactJS
 
+Attention, it needs node 14+ and npm 5.6+ to work, otherwise it will trigger  `Error: Child compilation failed`
+
 ## Screenshot
 ![screenshot](https://i.imgur.com/tXeip1P.jpg)
 ## Setup
