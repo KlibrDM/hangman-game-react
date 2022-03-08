@@ -1,5 +1,5 @@
 # hangman-game
-Live preview: Coming soon!
+Live preview: https://klibrdm.github.io/hangman-game-react/
 
 This is a remake of https://github.com/KlibrDM/hangman-game using ReactJS
 
